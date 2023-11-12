@@ -1,0 +1,33 @@
+IG_UI_FR = {
+	IGUI_VehicleName89trooper = "'89 Isuzu Trooper"
+	IGUI_VehicleName89trooperOP = "'89 Isuzu Trooper Version tout-terrain"
+	IGUI_VehicleName89trooperRS = "'89 Isuzu Trooper RS"
+
+	IGUI_VehiclePartISZ89BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartISZ89BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartISZ89Mudflaps = "Garde-boues",
+	IGUI_VehiclePartISZ89SpareTire = "Pneu de secours arrière",
+	IGUI_VehiclePartISZ89SpareTireFront = "Pneu de secours avant",
+	IGUI_VehiclePartISZ89SideSteps = "Marches latérales",
+
+	IGUI_VehiclePartISZ89WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartISZ89WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartISZ89DoorFrontLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartISZ89DoorFrontRightArmor = "Blindage de portière avant droite",
+	IGUI_VehiclePartISZ89DoorRearLeftArmor = "Blindage de portière arrière gauche",
+	IGUI_VehiclePartISZ89DoorRearRightArmor = "Blindage de portière arrière droite",
+	IGUI_VehiclePartISZ89WindowBackLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartISZ89WindowBackRightArmor = "Blindage de vitre arrière droite",
+
+	IGUI_VehiclePartWindowBackLeft = "Vitre arrière gauche",
+	IGUI_VehiclePartWindowBackRight = "Vitre arrière droite",
+
+	IGUI_VehiclePartISZ89Trunk = "Coffre",
+	IGUI_VehiclePartISZ89Roofrack = "Galerie de toit",
+
+	IGUI_VehiclePartISZ89GasCan0 = "Bidon d'essence",
+	IGUI_VehiclePartISZ89GasCan1 = "Bidon d'essence",
+	IGUI_VehiclePartISZ89Generator = "Générateur",
+
+	IGUI_CraftCategory_ISZ89 = "'89 Isuzu Trooper",
+}
