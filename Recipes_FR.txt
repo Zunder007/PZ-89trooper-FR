@@ -1,0 +1,14 @@
+Recipes_FR = {
+	Recipe_Make_ISZ89_Bullbar_Type_1 = "Fabriquer Pare-buffle Type 1",
+	Recipe_Make_ISZ89_Bullbar_Type_2 = "Fabriquer Pare-buffle Type 2",
+	Recipe_Make_ISZ89_Front_Door_Armor = "Fabriquer Blindage de portière avant",
+	Recipe_Make_ISZ89_Rear_Door_Armor = "Fabriquer Blindage de portière arrière",
+	Recipe_Make_ISZ89_Rear_Windows_Armor = "Fabriquer Blindage de vitre arrière",
+	Recipe_Make_ISZ89_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_ISZ89_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
+	Recipe_Make_ISZ89_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_ISZ89_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_ISZ89_Side_Window_2 = "Fabriquer Vitre latérale",
+	Recipe_Make_ISZ89_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_ISZ89_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+}
