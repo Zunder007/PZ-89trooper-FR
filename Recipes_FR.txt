@@ -11,4 +11,5 @@ Recipes_FR = {
 	Recipe_Make_ISZ89_Side_Window_2 = "Fabriquer Vitre latérale",
 	Recipe_Make_ISZ89_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_ISZ89_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+	Recipe_Make_ISZ89_Tire = "Fabriquer Pneu",
 }
