@@ -12,4 +12,15 @@ Recipes_FR = {
 	Recipe_Make_ISZ89_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_ISZ89_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 	Recipe_Make_ISZ89_Tire = "Fabriquer Pneu",
+
+	Recipe_Dismantle_Trooper_Armor = "Démonter Blindage",
+	Recipe_Dismantle_Trooper_Door = "Démonter Portière",
+	Recipe_Dismantle_Trooper_Lid = "Démonter Coffre",
+	Recipe_Dismantle_Trooper_Mudflaps = "Démonter Garde-boues",
+	Recipe_Dismantle_Trooper_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_Trooper_Seat = "Démonter Siège",
+	Recipe_Dismantle_Trooper_Tire = "Démonter Pneu",
+	Recipe_Make_Back_Window_Armor = "Fabriquer Blindage",
+	Recipe_Make_Vehicle_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_Vehicle_Mudflaps = "Fabriquer Garde-boues",
 }
