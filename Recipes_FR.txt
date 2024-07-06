@@ -23,4 +23,6 @@ Recipes_FR = {
 	Recipe_Make_Back_Window_Armor = "Fabriquer Blindage",
 	Recipe_Make_Vehicle_Bullbar = "Fabriquer Pare-buffle",
 	Recipe_Make_Vehicle_Mudflaps = "Fabriquer Garde-boues",
+
+	Recipe_Make_Vehicle_Sidesteps = "Fabriquer Marchepieds latéraux",
 }
