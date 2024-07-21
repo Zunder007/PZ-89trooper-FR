@@ -25,4 +25,23 @@ Recipes_FR = {
 	Recipe_Make_Vehicle_Mudflaps = "Fabriquer Garde-boues",
 
 	Recipe_Make_Vehicle_Sidesteps = "Fabriquer Marchepieds latéraux",
+
+	Recipe_Dismantle_89_ISUZU_Trooper_Armor = "Démonter Blindage",
+	Recipe_Dismantle_89_ISUZU_Trooper_Door = "Démonter Portière",
+	Recipe_Dismantle_89_ISUZU_Trooper_Lid = "Démonter Coffre",
+	Recipe_Dismantle_89_ISUZU_Trooper_Mudflaps = "Démonter Garde-boues",
+	Recipe_Dismantle_89_ISUZU_Trooper_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_89_ISUZU_Trooper_Seat = "Démonter Siège",
+	Recipe_Dismantle_89_ISUZU_Trooper_Tire = "Démonter Pneu",
+	Recipe_Make_89_ISUZU_Trooper_Back_Window_Armor = "Fabriquer Blindage Vitre arrière",
+	Recipe_Make_89_ISUZU_Trooper_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_89_ISUZU_Trooper_Front_Window_Armor = "Fabriquer Blindage Vitre avant",
+	Recipe_Make_89_ISUZU_Trooper_Mudflaps = "Fabriquer Garde-boues",
+	Recipe_Make_89_ISUZU_Trooper_Rear_Window_Armor = "Fabriquer Blindage Vitre arrière",
+	Recipe_Make_89_ISUZU_Trooper_Rear_Windshield_Armor = "Fabriquer Blindage Pare-brise arrière",
+	Recipe_Make_89_ISUZU_Trooper_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_89_ISUZU_Trooper_Sidesteps = "Fabriquer Marchepieds latéraux",
+	Recipe_Make_89_ISUZU_Trooper_Tire = "Fabriquer Pneu",
+	Recipe_Make_89_ISUZU_Trooper_Windshield_Armor = "Fabriquer Blindage Pare-brise",
+	Recipe_Repair_89_ISUZU_Trooper_Tire = "Réparer Pneu",
 }
